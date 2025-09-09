@@ -1,0 +1,5 @@
+timm
+torchvision
+Pillow
+SimpleITK
+numpy
